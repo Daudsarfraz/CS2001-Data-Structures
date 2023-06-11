@@ -1,8 +1,3 @@
-/*
-  * Author: Fakhra Najm
-  * Email: fnajm09@gmail.com
-  * Topic: Generating binary search tree from preorder traversal
-*/
 
 #include<stdio.h>
 #include<stdlib.h>
