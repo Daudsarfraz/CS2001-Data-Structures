@@ -1,7 +1,7 @@
 /**
  * @file
  * @brief An implementation for finding the [Inorder successor of a binary
- * search tree](https://www.youtube.com/watch?v=5cPbNCrdotA) Inorder
+ * search tree] Inorder
  * successor of a node is the next node in Inorder traversal of the Binary Tree.
  * Inorder Successor is NULL for the last node in Inorder traversal.
  * @details
@@ -29,8 +29,6 @@
  * doing so, we are visiting every ancestor of the given node.
  *      * In order successor would be the deepest node in this path for which
  * given node is in left subtree.
- *
- * @author [Nitin Sharma](https://github.com/foo290)
  * */
 
 #include <cassert>   ///  for assert
